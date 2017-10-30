@@ -14,3 +14,6 @@ _Test_
 * [腾讯课堂](https://ke.qq.com/)
 * [TesterHome](https://testerhome.com/)
 * [实验楼](https://www.shiyanlou.com/)
+
+_JMeter_
+* [Jmeter 3.2 及插件的安装和配置](http://blog.csdn.net/codyguo/article/details/72758239)
